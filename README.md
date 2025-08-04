@@ -8,4 +8,7 @@ https://nbviewer.org/github/Hon-Lam-Chia/Geospatial-Analysis-of-MRT-Lines-in-Sin
 
 Report (Part 1): Select Singapore_Overview.ipynb  
 Report (Part 2): Select Singapore_MRT_Analysis.ipynb  
-Report with code input: Select Singapore.ipynb
+
+You can download the HTML versions to view the report without code: 
+Report (Part 1): Download Singapore_Overview.html  
+Report (Part 2): Download Singapore_MRT_Analysis.html 
