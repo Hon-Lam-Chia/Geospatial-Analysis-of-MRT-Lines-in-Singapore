@@ -4,7 +4,7 @@ This report presents a geospatial analysis of MRT accessibility across Singapore
 This report uses Plotly for maps and visualizations, which produces interactive HTML outputs that are not supported by Github. This report must be viewed with Jupyter nbviewer.
 
 **Click on this link**
-Google Colab: 
+Google Colab:   
 Report (Part 1): https://colab.research.google.com/github/Hon-Lam-Chia/Geospatial-Analysis-of-MRT-Lines-in-Singapore/blob/main/Singapore_Overview.ipynb  
 Report (Part 2): https://colab.research.google.com/github/Hon-Lam-Chia/Geospatial-Analysis-of-MRT-Lines-in-Singapore/blob/main/Singapore_MRT_Analysis.ipynb
 
