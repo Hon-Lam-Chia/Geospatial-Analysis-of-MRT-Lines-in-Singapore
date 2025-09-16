@@ -5,7 +5,7 @@ This report uses Plotly for maps and visualizations, which produces interactive 
 
 **Click on this link**
 Google Colab: 
-Report (Part 1): https://colab.research.google.com/github/Hon-Lam-Chia/Geospatial-Analysis-of-MRT-Lines-in-Singapore/blob/main/Singapore_Overview.ipynb
+Report (Part 1): https://colab.research.google.com/github/Hon-Lam-Chia/Geospatial-Analysis-of-MRT-Lines-in-Singapore/blob/main/Singapore_Overview.ipynb  
 Report (Part 2): https://colab.research.google.com/github/Hon-Lam-Chia/Geospatial-Analysis-of-MRT-Lines-in-Singapore/blob/main/Singapore_MRT_Analysis.ipynb
 
 
