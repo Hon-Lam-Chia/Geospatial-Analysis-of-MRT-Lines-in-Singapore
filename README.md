@@ -1,7 +1,7 @@
 # Geospatial-Analysis-of-MRT-Lines-in-Singapore
 This report presents a geospatial analysis of MRT accessibility across Singapore's planning subzones. Using demographic, economic, and transport datasets, the study aims to identify underserved areas and propose improvements for MRT infrastructure planning.
 
-This report uses Plotly for maps and visualizations, which produces interactive HTML outputs that are not supported by Github. This report must be viewed with Google Colab or Jupyter nbviewer.  
+This report uses Plotly for maps and visualizations, which produces interactive HTML outputs that are not supported by Github. This report must be downloaded/viewed with Google Colab or Jupyter nbviewer.  
 
 You can download the HTML versions to view the report without code:   
 Report (Part 1): Download Singapore_Overview.html  
